@@ -13,5 +13,7 @@ filtering.
 
 ## How to Run
 javac *.java
+
 java Main
+
 (requires TheRaven.dat in working directory for one feature)
